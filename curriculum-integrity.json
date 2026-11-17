@@ -1,0 +1,1696 @@
+[
+  {
+    "day": 1,
+    "title": "Baseline and Big-O",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Array minimum and maximum",
+    "questionHash": "5c09a1bdb47efb50e2719930cf450e8a6e762312b0e055bf2b6c6f09149c8ae7"
+  },
+  {
+    "day": 2,
+    "title": "Types and execution",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Reverse an array in place",
+    "questionHash": "4dbd9252797e9a46c81cf66f1dc20ab78d339a5537e6489c305ec29b4d0ad067"
+  },
+  {
+    "day": 3,
+    "title": "Methods and object behavior",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Remove Duplicates from Sorted Array",
+    "questionHash": "e28c50a9c4240801e5adec0dd52d99281c121517dabcaef33b00ad5ee9863b66"
+  },
+  {
+    "day": 4,
+    "title": "OOP essentials",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Literal string palindrome",
+    "questionHash": "1926ffd7d5d5136a705b59608f132ea92b4dd72ebf530ebf196e28ff5c2213e4"
+  },
+  {
+    "day": 5,
+    "title": "Equality and immutability",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Two Sum",
+    "questionHash": "7aa0c3e6e85fa87e7ca32c6eacebf4583cf57d4ffe0ffed0be1f21025eb12cc9"
+  },
+  {
+    "day": 6,
+    "title": "Weekly hands-on build",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Two Sum",
+    "questionHash": "c4f4928089eb9f9b118d23855e3ce85969a7a3719972cd63c3deb9ced3d62786"
+  },
+  {
+    "day": 7,
+    "title": "Weekly review and reset",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Literal string palindrome",
+    "questionHash": "34d5e91b143c67ef8ebc721d0444e4216e014260adb455a302bf0906e3c3b502"
+  },
+  {
+    "day": 8,
+    "title": "Exceptions",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Count character frequencies",
+    "questionHash": "d7402f5a60b0826d7eae45d27898ae7e51a6ac42970da299ca1e492de11aa6ed"
+  },
+  {
+    "day": 9,
+    "title": "Generics",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Valid Anagram",
+    "questionHash": "e40907476e5a68b298bf4299995de43d6471976be0fdf45e97e8702de10f8c55"
+  },
+  {
+    "day": 10,
+    "title": "String internals",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Valid Palindrome",
+    "questionHash": "57bf99ff38584591b61d210248ca363d47e20ec274d1867b387056f514e2c6eb"
+  },
+  {
+    "day": 11,
+    "title": "Java APIs",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Merge Sorted Array",
+    "questionHash": "5d6268c5f64b87cd6dd709c8a3435c9a09646fa96bffbd6dbdd9ee025af78412"
+  },
+  {
+    "day": 12,
+    "title": "Java fundamentals review",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Two Sum",
+    "questionHash": "024a87000340724cc10ca469b006371d5752e819644d7433883d77623e10d8ab"
+  },
+  {
+    "day": 13,
+    "title": "Weekly hands-on build",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Count character frequencies",
+    "questionHash": "f347a8a8f82b5f9622f756ce323f4e42feaefd2e297ed0d32601eca2b629e816"
+  },
+  {
+    "day": 14,
+    "title": "Weekly review and reset",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Valid Anagram",
+    "questionHash": "929ab1dfea231dc149796049946159add8369614d139238ee408aca23043886d"
+  },
+  {
+    "day": 15,
+    "title": "List and Set",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Contains Duplicate",
+    "questionHash": "3b599afce5592d4746dd0723ea1c4c9de66c662a15bc9eea8b11dc058da6b40e"
+  },
+  {
+    "day": 16,
+    "title": "HashMap internals",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "First Unique Character in a String",
+    "questionHash": "e15ad695b08260428acc4824d6537d859457374d91b102a5054da41915540a75"
+  },
+  {
+    "day": 17,
+    "title": "Ordering",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Move Zeroes",
+    "questionHash": "88e2cef3ca46358f699346465b986d59fe8ea3b7dd4336ba2fcc61bc9926dc50"
+  },
+  {
+    "day": 18,
+    "title": "Streams",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Best Time to Buy and Sell Stock",
+    "questionHash": "67f7cd416c87d8fc14026c9219fb07bb2219359274fa86f5b809677514ed675c"
+  },
+  {
+    "day": 19,
+    "title": "Modern Java",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Longest Substring Without Repeating Characters",
+    "questionHash": "501387f06c08bf1c4dad3d8d7dac18454478df7664f521cb5f40c7b96f267e22"
+  },
+  {
+    "day": 20,
+    "title": "Weekly hands-on build",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Longest Substring Without Repeating Characters",
+    "questionHash": "2cd11e3679cc880ea43e13c0ff0e7f84e338ac00cf0cd42f83b88ca2abe750a5"
+  },
+  {
+    "day": 21,
+    "title": "Weekly review and reset",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Best Time to Buy and Sell Stock",
+    "questionHash": "c0b2b2b262f7fccdff53cc1fbb0fd4bdb1a33f690859a09aca077283b372e408"
+  },
+  {
+    "day": 22,
+    "title": "Thread basics",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Valid Parentheses",
+    "questionHash": "35b78c3f6a93897b23250440aaa637927d231637fd18de80d3e504fb52be4f11"
+  },
+  {
+    "day": 23,
+    "title": "Shared mutable state",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Reverse Linked List",
+    "questionHash": "d74ba554581f39533be12ccd2ce06932c45e8b00dd51fbbf9bf26f1d7a8d55a2"
+  },
+  {
+    "day": 24,
+    "title": "Memory visibility",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Merge Two Sorted Lists",
+    "questionHash": "de47426b6ce27e0faa9dd89cb7f9dc7feffe191837a804a0e53764d7ffe4317d"
+  },
+  {
+    "day": 25,
+    "title": "ExecutorService",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Binary Search",
+    "questionHash": "d97aef1e0f77b0e6296b1331e7ce17bf082e2f7d7c4656eda102ada77108d446"
+  },
+  {
+    "day": 26,
+    "title": "Concurrent collections",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Search Insert Position",
+    "questionHash": "2224c128efb48eef9880e3160deb2d945379ce676d9e8647d5df53f72171e6fa"
+  },
+  {
+    "day": 27,
+    "title": "Weekly hands-on build",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Merge Two Sorted Lists",
+    "questionHash": "f6b67a8496d3eda1dcd29e69869b3b1c5f65b08b56992c1f1e7452710f1c9981"
+  },
+  {
+    "day": 28,
+    "title": "Weekly review and reset",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Search Insert Position",
+    "questionHash": "65cc90c347ee77beda69253c48970907b038bb38eac1a91351053c7a68f78eba"
+  },
+  {
+    "day": 29,
+    "title": "Locks and deadlocks",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Factorial and recursive array sum",
+    "questionHash": "1dded63bc3076fe41aa442574d5f07453c8477513170355e457f998d392b229c"
+  },
+  {
+    "day": 30,
+    "title": "Atomics and CAS",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Fibonacci with memoization",
+    "questionHash": "54cbee5c5cc51a173550e316a52f75d254def61fa61cba654cdf1865dfa402c8"
+  },
+  {
+    "day": 31,
+    "title": "CompletableFuture",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Maximum Depth of Binary Tree",
+    "questionHash": "95aadd97891fc1b01e46217252a28c35dfedd74c0a8c0c3d29fbb414a5ba1892"
+  },
+  {
+    "day": 32,
+    "title": "ThreadLocal and context",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Invert Binary Tree",
+    "questionHash": "06523d7c3a47417f3243ab259f666cbdae4ef8292b5c874134066f9bbf894016"
+  },
+  {
+    "day": 33,
+    "title": "Virtual threads",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Same Tree",
+    "questionHash": "70901755e48365276a676d13e0c797cdd0d53dafcb651c69251538f609a0f86b"
+  },
+  {
+    "day": 34,
+    "title": "Weekly hands-on build",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Fibonacci with memoization",
+    "questionHash": "420b07d550ec44e1bb7a99d6a64682126c1fb412dfac4a32a9784423e22810e6"
+  },
+  {
+    "day": 35,
+    "title": "Weekly review and reset",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Same Tree",
+    "questionHash": "e285c2453d1bf80bc165d6659b8740955a9bd5176a8bb2c34253e4dfa3629427"
+  },
+  {
+    "day": 36,
+    "title": "Cold recall and gap audit",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Remove Duplicates from Sorted Array",
+    "questionHash": "cd1c2c90369d8d2d18930ee74181ebac3e24f6b22e7c29143e3db863c446be81"
+  },
+  {
+    "day": 37,
+    "title": "Rebuild without notes",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "First Unique Character in a String",
+    "questionHash": "c130c7a31c616ff1acb666ab5979d820038e8998a7b83b88e2f2810883aa36f0"
+  },
+  {
+    "day": 38,
+    "title": "Failure-case and debugging drills",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Move Zeroes",
+    "questionHash": "56317b4461cc3ce8c87175794a37de5fd5f4bc9a82365b69ac020f8c556da43e"
+  },
+  {
+    "day": 39,
+    "title": "Mixed coding practice",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Best Time to Buy and Sell Stock",
+    "questionHash": "554db9168c7f87d8c9bd6b782a6ea07fd0974187cff223fa0ea37a112bbc6e00"
+  },
+  {
+    "day": 40,
+    "title": "Mini-mock and corrections",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Reverse Linked List",
+    "questionHash": "e043662660f949670ef9a79c0cc432bee87583b5486b5ce64f3684890d48f4f0"
+  },
+  {
+    "day": 41,
+    "title": "Cumulative lab and fixes",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Maximum Depth of Binary Tree",
+    "questionHash": "b0b9a5f437ae2c00634bc76bda5af833ae244eb0dfb37fbbd9d9d5b169ee83c4"
+  },
+  {
+    "day": 42,
+    "title": "Retention checkpoint",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Invert Binary Tree",
+    "questionHash": "e06c0698b2200fdf9c6b655ce5b21d0680c87663237b0350005efa41c841a98e"
+  },
+  {
+    "day": 43,
+    "title": "JVM memory",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Binary Tree Level Order Traversal",
+    "questionHash": "ba41609ef1000363c0bec33cfad1662d39474b485dcd6781c4b62dd37ed0f029"
+  },
+  {
+    "day": 44,
+    "title": "Garbage collection",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Flood Fill",
+    "questionHash": "a96cb0ff9a22bbbc094d7f839c683832758a4e4a55314c3b8b4efd9c3c4d67a8"
+  },
+  {
+    "day": 45,
+    "title": "Heap troubleshooting",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Find if Path Exists in Graph",
+    "questionHash": "41ffb167d634d81c2671de58759683b9392840e1c308bbfa439b92c20c9fb250"
+  },
+  {
+    "day": 46,
+    "title": "CPU and thread diagnostics",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Number of Islands",
+    "questionHash": "ed85045bcf69ad83f2152409d2ecd75452eb0b783e68d7e0a95f2973253d16fb"
+  },
+  {
+    "day": 47,
+    "title": "Benchmarking",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Binary Tree Level Order Traversal",
+    "questionHash": "600b6954a077ad9ca3025815d82833d8025cb678de24a34b66b0cbbd9b42749b"
+  },
+  {
+    "day": 48,
+    "title": "Weekly hands-on build",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Number of Islands",
+    "questionHash": "e239e1845a2923d0afd9304ebb3a8e892d0f4ae1eb7295d3c4255affa2ce35bf"
+  },
+  {
+    "day": 49,
+    "title": "Weekly review and reset",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Find if Path Exists in Graph",
+    "questionHash": "00b71f6cad2336f9781468aba9ab8cc11a8b83f03776dd5946338da25fa8b482"
+  },
+  {
+    "day": 50,
+    "title": "Dependency injection",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Group Anagrams",
+    "questionHash": "7b5f1218955a314e875cf38639cc475e346c35b96d481fcd7bf1e26a99bd9747"
+  },
+  {
+    "day": 51,
+    "title": "Bean lifecycle",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Group Anagrams",
+    "questionHash": "ecfb17aedec2377cbe22caccbe0f94e78891fe499aa5a3d8c8d0af24894519c6"
+  },
+  {
+    "day": 52,
+    "title": "Boot configuration",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Container With Most Water",
+    "questionHash": "dff2fb90e85623bd450f62a7de8cc00ed1d8b0723e3f9756af0b9364f40775fc"
+  },
+  {
+    "day": 53,
+    "title": "Spring AOP",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Container With Most Water",
+    "questionHash": "b3f41ecb53c44da8d3496d6c4a9c1ab89b7b78289ab37fac65b6a2c5a1bb06f3"
+  },
+  {
+    "day": 54,
+    "title": "Spring MVC",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Daily Temperatures",
+    "questionHash": "c6146aafd2605ba5e0f5445a1ff66e1f519569105c3a15766cb2342b6cd2af8e"
+  },
+  {
+    "day": 55,
+    "title": "Weekly hands-on build",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Daily Temperatures",
+    "questionHash": "fc54ee8e7040cab1ddbce4031dab8d2d9fcd1d6ba9f234bba218588a2456e51b"
+  },
+  {
+    "day": 56,
+    "title": "Weekly review and reset",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Container With Most Water",
+    "questionHash": "965837723e8f4318b5e8802eaec7e2da403386c5cf7518afb8661358b0b79ecd"
+  },
+  {
+    "day": 57,
+    "title": "REST controllers",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Merge Intervals",
+    "questionHash": "b1296cca05137c15a4c2646a25c902949cc51d343ae36f4dcc68403724e0bfed"
+  },
+  {
+    "day": 58,
+    "title": "Transactions basics",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Merge Intervals",
+    "questionHash": "bb38910d639274cad1cdc40cc0b7d778d6877eb6fbf685755e2b12a611eb7c23"
+  },
+  {
+    "day": 59,
+    "title": "Propagation",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Search in Rotated Sorted Array",
+    "questionHash": "8db217676b220b0f2bc1e9901126901175d5ee34b688065dbdefbc42548971c5"
+  },
+  {
+    "day": 60,
+    "title": "Isolation",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Search in Rotated Sorted Array",
+    "questionHash": "c0d551915be7e3ccf5590003dac1d392a9e66e6a02fd469f1005791ce5efe48a"
+  },
+  {
+    "day": 61,
+    "title": "Transactional tests",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Insert Interval",
+    "questionHash": "357234135efda3f3a04f3fe06e1e900d13fae501a431823e446c1ce331c135a3"
+  },
+  {
+    "day": 62,
+    "title": "Weekly hands-on build",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Insert Interval",
+    "questionHash": "a33cf9c0d5afa766119de88bba0d1a015ed611c8d2c6c3734844aee5a25c2835"
+  },
+  {
+    "day": 63,
+    "title": "Weekly review and reset",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Merge Intervals",
+    "questionHash": "9882dc33c4443f16b22ec45f0d82e8eeff07a1b557e44c70cfaced9ae473f666"
+  },
+  {
+    "day": 64,
+    "title": "JPA entity lifecycle",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Kth Largest Element in an Array",
+    "questionHash": "2afb9d1c99f09eb617a535435f863f33105f4298b12d0dbf717feaef6dd41662"
+  },
+  {
+    "day": 65,
+    "title": "Fetch behavior",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Kth Largest Element in an Array",
+    "questionHash": "acd4a9e057ae983dd1f78c8f7edb912bce45753d0bc75a609adce860b1c25ca9"
+  },
+  {
+    "day": 66,
+    "title": "Locking",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Implement Queue using Stacks",
+    "questionHash": "44c11c4b69a945bb00d9e103f6e161a1e512df8a0f730affeccd4e978467fe10"
+  },
+  {
+    "day": 67,
+    "title": "Spring Security basics",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Generate Parentheses",
+    "questionHash": "1fd5efcf927714b4dbd5a1169c9fad486bd9c5cbd81c93393be5cdd8ff8aac83"
+  },
+  {
+    "day": 68,
+    "title": "OAuth2 and JWT",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Top K Frequent Elements",
+    "questionHash": "918bc6c0a83f585adbe7c5c269a46c04ab5f415261cf8a77b901d69859d1b696"
+  },
+  {
+    "day": 69,
+    "title": "Weekly hands-on build",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Generate Parentheses",
+    "questionHash": "72bf947d9230e10b1876c12363e14fea865acf7343e298bdc588e09734961696"
+  },
+  {
+    "day": 70,
+    "title": "Weekly review and reset",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Top K Frequent Elements",
+    "questionHash": "95a0f1cfd6826c9d940450fe2adf7a4ebf3e8d41bb6be3b48625834b60cf2069"
+  },
+  {
+    "day": 71,
+    "title": "Relational SQL",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Two Sum",
+    "questionHash": "f86ca3421ac8ab943daa9fe05e7e7284d7c06a52366483a16be2244a853d6f8f"
+  },
+  {
+    "day": 72,
+    "title": "Advanced SQL",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Valid Parentheses",
+    "questionHash": "b3b15576975a7478de5745b432711672bc270e59538b81f23d1e5ca18caa6b2d"
+  },
+  {
+    "day": 73,
+    "title": "Index fundamentals",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Binary Search",
+    "questionHash": "df701ddf5a67feeedb5c8dabd872db5d641ff6c2f69eb6f1ec6d26a391549ce9"
+  },
+  {
+    "day": 74,
+    "title": "Execution plans",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Merge Intervals",
+    "questionHash": "b4c699bd79d85d3640e77b9328ccb32e99214d5a8547bcc0e1fa2011d4e81261"
+  },
+  {
+    "day": 75,
+    "title": "Schema and pagination",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Longest Substring Without Repeating Characters",
+    "questionHash": "450c26f1b0a1f8f89f87660fd93626432a49af7887cdcb37f07aafd7a6986ffb"
+  },
+  {
+    "day": 76,
+    "title": "Weekly hands-on build",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Implement Queue using Stacks",
+    "questionHash": "4131ee682cfc0abcc8d0b0719bd61b336bd7d5f1342c0b3f79842342b85a0362"
+  },
+  {
+    "day": 77,
+    "title": "Weekly review and reset",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Merge Two Sorted Lists",
+    "questionHash": "1a6ac987ba2cc58f6f73f69e857b19c406896d5c75768240a1b80461c4602fd9"
+  },
+  {
+    "day": 78,
+    "title": "Cold recall and gap audit",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Find First and Last Position of Element in Sorted Array",
+    "questionHash": "c8d2456557d330f7f375416bf56c8cbb904625cddbc7bc356730cdd2c8c0c805"
+  },
+  {
+    "day": 79,
+    "title": "Rebuild without notes",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Find First and Last Position of Element in Sorted Array",
+    "questionHash": "81ff806e314749a27edbe573a63d174125dff30ea6066e6942bd637f29a08c5e"
+  },
+  {
+    "day": 80,
+    "title": "Failure-case and debugging drills",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Insert Interval",
+    "questionHash": "62e2399d318da12d2cfc6ab73c2c7c0cd2116179d8d1aec3900e38e7c259a3bc"
+  },
+  {
+    "day": 81,
+    "title": "Mixed coding practice",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Daily Temperatures",
+    "questionHash": "b794d89d97a6ae37bc7dbfb22634b26f399b0916df36a9e5f23aef82d5b1c974"
+  },
+  {
+    "day": 82,
+    "title": "Mini-mock and corrections",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Top K Frequent Elements",
+    "questionHash": "e88e5d382323df394eb78222f03ed6be6de183451b1d4180cf841ac2bafe550c"
+  },
+  {
+    "day": 83,
+    "title": "Cumulative lab and fixes",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Flood Fill",
+    "questionHash": "0dce3d06140e34465578d92a48bd32a33deff4698a32619f169022566963fb19"
+  },
+  {
+    "day": 84,
+    "title": "Retention checkpoint",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Find if Path Exists in Graph",
+    "questionHash": "06f6a6403b774ba63a3fbd390d0a4114675a00148166fbf70459550b0c3f632e"
+  },
+  {
+    "day": 85,
+    "title": "ACID and isolation",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Number of Islands",
+    "questionHash": "32d3aa115655e8763dd9ebbcc5bd94257e7c2b63dc182cb2b97b4da75e2b2f57"
+  },
+  {
+    "day": 86,
+    "title": "Locking and deadlocks",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Course Schedule",
+    "questionHash": "f01070d513ecbe8f6cbea00b4d90a1d14db7ff11e25d09425f03b7f154c41f7a"
+  },
+  {
+    "day": 87,
+    "title": "Connection pools",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Climbing Stairs",
+    "questionHash": "d1898033fd94173c942ecacfc5a63b5db53319e1fcd7664b76c9b4b9747d91e8"
+  },
+  {
+    "day": 88,
+    "title": "Oracle practicals",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "House Robber",
+    "questionHash": "f610cba52662b40d82ddc9e7e1673dc38db2807e09572b983ad9d2afcb6170da"
+  },
+  {
+    "day": 89,
+    "title": "Database performance",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Course Schedule",
+    "questionHash": "0b28d5ea459dcfd3099c198e174cc57cba664131c624d4de53a1e4e86622c716"
+  },
+  {
+    "day": 90,
+    "title": "Weekly hands-on build",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "House Robber",
+    "questionHash": "c6e52541e927c41dac75c23c70af1934ae21b170ee4948a0a1a36aefcb3735d0"
+  },
+  {
+    "day": 91,
+    "title": "Weekly review and reset",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Climbing Stairs",
+    "questionHash": "c44b4f4a357437238e0953f07b70a073fe7cb94ff20a56e1d4445e176792b302"
+  },
+  {
+    "day": 92,
+    "title": "HTTP semantics",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Search in Rotated Sorted Array",
+    "questionHash": "f06c39266df0fdb37a7573892c4424d29e199ed97eecd5c9e60682e0174d9820"
+  },
+  {
+    "day": 93,
+    "title": "Idempotency keys",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Group Anagrams",
+    "questionHash": "bebb6fce5b9d67674f6c2b3d6a3dc2752027b6b9907f7f0538300f38645eb025"
+  },
+  {
+    "day": 94,
+    "title": "Timeouts and retries",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Top K Frequent Elements",
+    "questionHash": "28951bd1b7043eec07b4adfa83f4d4f5281bbad5486819582a86612ceb66a826"
+  },
+  {
+    "day": 95,
+    "title": "Circuit breakers",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "House Robber",
+    "questionHash": "e0d196bc4d6bdf4ac6c8b9bac47ef70934007e2fcd937ab21433ff12b81e5a2b"
+  },
+  {
+    "day": 96,
+    "title": "Failure scenarios",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Last Stone Weight",
+    "questionHash": "fd7c703c3b8acebbf72dae7343d71c920d7a4ba405ee6ef15f5d0d2b7612ab1a"
+  },
+  {
+    "day": 97,
+    "title": "Weekly hands-on build",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Last Stone Weight",
+    "questionHash": "31849818d705f38cbb965697ddf294aaa10d7239c8cbc39292890bd56f5740c0"
+  },
+  {
+    "day": 98,
+    "title": "Weekly review and reset",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Course Schedule",
+    "questionHash": "c1a0c3d3bfa86788a63267dd1020dd839e9729e509e1233f5b1828f5e06748d5"
+  },
+  {
+    "day": 99,
+    "title": "Kafka fundamentals",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Course Schedule",
+    "questionHash": "cc360200667cb4cd665424d32237b23efb54471586c5811168561f9893d6fd1b"
+  },
+  {
+    "day": 100,
+    "title": "Delivery semantics",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Number of Islands",
+    "questionHash": "9a8e728f3c226007025169e17735f0e76f37cc4049fb10e4ec9c4c1e63fb3647"
+  },
+  {
+    "day": 101,
+    "title": "Outbox pattern",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Merge Intervals",
+    "questionHash": "eb56e48a682365b1eac6b31a4aa0dfc3d69666df7b9318e1e46ad15ca3fe1e9a"
+  },
+  {
+    "day": 102,
+    "title": "Saga and consistency",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Longest Substring Without Repeating Characters",
+    "questionHash": "1b68b9cd508de1aa6aa42755554765f53ee6c8e32475f742c1d089ca832ffe2c"
+  },
+  {
+    "day": 103,
+    "title": "Redis",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Top K Frequent Elements",
+    "questionHash": "fb14d336d4a937f266d157db4453bba986d1541ae344a49afc3e5dad66dadd61"
+  },
+  {
+    "day": 104,
+    "title": "Weekly hands-on build",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Group Anagrams",
+    "questionHash": "b9548a9da37ea1f73768a6952755fe2c55f7e2972b83a552cd1e45d0700d133a"
+  },
+  {
+    "day": 105,
+    "title": "Weekly review and reset",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Generate Parentheses",
+    "questionHash": "123f6f8ff371ba49a908c412053911f8b80e32ffebaf32a2b8b3980bfbddcb38"
+  },
+  {
+    "day": 106,
+    "title": "SOLID",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "LRU Cache",
+    "questionHash": "b4fca68da5643d05ae9852a3ed0010345017036432bb05772ccad9c0f0604afa"
+  },
+  {
+    "day": 107,
+    "title": "Strategy and Factory",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Min Stack",
+    "questionHash": "11bde82869d0aa1838e98f3d194f19b4483595d5ca4b1eeef7fc6ffb54e95ca4"
+  },
+  {
+    "day": 108,
+    "title": "Rate limiter LLD",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Design Circular Queue",
+    "questionHash": "88bb98ed210d952909d8f675ca758e62489bee3f4b9e39070bfbf6b76a9215b0"
+  },
+  {
+    "day": 109,
+    "title": "Cache LLD",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "LRU Cache",
+    "questionHash": "bc21cb0d6aaf9a94aaa9cde64ce9be22c5875144c2feb74fd0097e30fee252ae"
+  },
+  {
+    "day": 110,
+    "title": "Wallet/ledger LLD",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Min Stack",
+    "questionHash": "1257d5afd863e64371f90c38931aa22ee56df4c21e343314c528acb57a808ec1"
+  },
+  {
+    "day": 111,
+    "title": "Weekly hands-on build",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Design Circular Queue",
+    "questionHash": "2b36816c58b2e5c324b62ce78946a037cb462dea6044dbd915f80525f14b10ab"
+  },
+  {
+    "day": 112,
+    "title": "Weekly review and reset",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Implement Queue using Stacks",
+    "questionHash": "5e1c2812fb965609c9aad90fa03f7d79035f968449ea7cc737b12bf0480d913a"
+  },
+  {
+    "day": 113,
+    "title": "Unit testing",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Two Sum",
+    "questionHash": "915c283c377132409052c0edab641d8ac4cc10441602d906494971b2379e997f"
+  },
+  {
+    "day": 114,
+    "title": "Integration testing",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Valid Anagram",
+    "questionHash": "f7820ae0d8411453c9a27bedf6e3b84f16f376a5eeab910775ffe7c6349d1161"
+  },
+  {
+    "day": 115,
+    "title": "Concurrency testing",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Binary Search",
+    "questionHash": "2bbde123f3b8bbcbc4d6f4968170b700b763217ce941475fd165523e242e070d"
+  },
+  {
+    "day": 116,
+    "title": "API and contract tests",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Merge Intervals",
+    "questionHash": "ac4ce285d99213a0d79cd4aa901092419b9191b4e93a9702a2789ac0fcadb080"
+  },
+  {
+    "day": 117,
+    "title": "Load testing basics",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Design Circular Queue",
+    "questionHash": "cb54e6a2521a5090a9808e032d9e6e5a01563cfcdf7efbe05ae1b69d2f1671ea"
+  },
+  {
+    "day": 118,
+    "title": "Weekly hands-on build",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Min Stack",
+    "questionHash": "a96aad89d55a148dbef65fb80ba04ea366e99e477dea721dfbc8d7f685848dfa"
+  },
+  {
+    "day": 119,
+    "title": "Weekly review and reset",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Design Circular Queue",
+    "questionHash": "4356bb616ad4832f6709ac0e7d8b1b2605fe9c44c87ae4f39299e609d0c2b940"
+  },
+  {
+    "day": 120,
+    "title": "Cold recall and gap audit",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Course Schedule",
+    "questionHash": "5a6dd943e82e6ff093368a861293fd0a1f5dd7dc7e3816c31727f3301eab392f"
+  },
+  {
+    "day": 121,
+    "title": "Rebuild without notes",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "House Robber",
+    "questionHash": "7e8fef38849bff4c6a1756c6123a3be0880ffe88b7910b033794c181d33eebb9"
+  },
+  {
+    "day": 122,
+    "title": "Failure-case and debugging drills",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "LRU Cache",
+    "questionHash": "019769bfa2cab00b5d618f6b66173042610f03a14da586740c6bb168dcf12533"
+  },
+  {
+    "day": 123,
+    "title": "Mixed coding practice",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Generate Parentheses",
+    "questionHash": "a4ff991f9846b337af1b4b1b4616624e328a1bfff9655c939e50e10f75716c99"
+  },
+  {
+    "day": 124,
+    "title": "Mini-mock and corrections",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Top K Frequent Elements",
+    "questionHash": "3f6bd76f67b1f3fad8381f00a767e00dd0ea3b5966a836a3722759d105111c29"
+  },
+  {
+    "day": 125,
+    "title": "Cumulative lab and fixes",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Design Circular Queue",
+    "questionHash": "17186482df9ab90f20da3aa15f71340a97f84b1beaae0f5b3cd8c7bd9c5a03ad"
+  },
+  {
+    "day": 126,
+    "title": "Retention checkpoint",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Climbing Stairs",
+    "questionHash": "c0d896dbcb286349deaa58bd85bf5051cef88b0f681a172e97b66feb6ceb599d"
+  },
+  {
+    "day": 127,
+    "title": "Docker",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Number of Islands",
+    "questionHash": "dc4fdd45a605bc2a8f6606f97596533facd4780b250241fe5d642ad4eb4e63cb"
+  },
+  {
+    "day": 128,
+    "title": "Kubernetes basics",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Group Anagrams",
+    "questionHash": "b86be59d1cce0b7787b0cf1f102d0ddd4fc4f0a9b7b26bc0368e8ce7fb5e5d12"
+  },
+  {
+    "day": 129,
+    "title": "CI/CD",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "House Robber",
+    "questionHash": "6f061381da8273a39c588891873822bf853b6f5d9b7ec9af5c1a6853af0b2a58"
+  },
+  {
+    "day": 130,
+    "title": "Observability",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Course Schedule",
+    "questionHash": "1e500ae046f94db0ac206d07f9f6a2a7b68d0ecbe2c572e30edb864b50eb5406"
+  },
+  {
+    "day": 131,
+    "title": "Incident response",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Container With Most Water",
+    "questionHash": "302dd759d34e1feec9e2f87e6805e2dc262f9dc50bb32e0192cc6722befb2ac8"
+  },
+  {
+    "day": 132,
+    "title": "Weekly hands-on build",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Daily Temperatures",
+    "questionHash": "f018c3ccd81c1115c2097a3fa5bb68b3e6ec50ad7db227c94c55ca110c9fd9d7"
+  },
+  {
+    "day": 133,
+    "title": "Weekly review and reset",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Last Stone Weight",
+    "questionHash": "bfdd0f1f64bb670f546747d23a210ee4fb1efa1f4e8bf0f3d987e9d98709488f"
+  },
+  {
+    "day": 134,
+    "title": "Design framework",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Contains Duplicate",
+    "questionHash": "24bda5cd21a5be800000c2ed7e66b27e6223cf07d112fd911be0f8ec70526017"
+  },
+  {
+    "day": 135,
+    "title": "Payment system design",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Min Stack",
+    "questionHash": "29b09a9d25bcfc7843ae7db6d8a2272ddc1c7e225227aa91a25f5be953a8df3b"
+  },
+  {
+    "day": 136,
+    "title": "Settlement design",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Valid Palindrome",
+    "questionHash": "75bcbdf8b526c4036b4e0f53747ca01529dc5aa63d4d4ba93211974a40e6c738"
+  },
+  {
+    "day": 137,
+    "title": "Notification design",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Design Circular Queue",
+    "questionHash": "88349d11b75479c364d7a5bc651451130e3ce34f74914e0e77bb1973947a8765"
+  },
+  {
+    "day": 138,
+    "title": "Project deep dives",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Kth Largest Element in an Array",
+    "questionHash": "25b84278b73bd1c4bb87db9cb5b4fcf158f6a81e71a393dc93c4797f38931917"
+  },
+  {
+    "day": 139,
+    "title": "Weekly hands-on build",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Generate Parentheses",
+    "questionHash": "6f449eff9ddf776abda44947bac91774229030edf3b00cab08097cf653144100"
+  },
+  {
+    "day": 140,
+    "title": "Weekly review and reset",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Find First and Last Position of Element in Sorted Array",
+    "questionHash": "6fea85add06a42c2ce356b365d29809186640865b4906abecd304d46307d5811"
+  },
+  {
+    "day": 141,
+    "title": "Java and concurrency mock",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "First Unique Character in a String",
+    "questionHash": "16c3b1d48523e381e7f6cb8b1a1ebafe44da972e937ffc08e8fe1bfec1f35bb5"
+  },
+  {
+    "day": 142,
+    "title": "Spring and database mock",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Search in Rotated Sorted Array",
+    "questionHash": "9320779855de111038076c30590bf5c02760eb34498617a0f07f0e0f6eafe7e3"
+  },
+  {
+    "day": 143,
+    "title": "Distributed systems mock",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Top K Frequent Elements",
+    "questionHash": "fd4cbcb69d0ff827ba39ea5cbbb020a9ca1fc90e2032b2ef56939e5b5ce4fddd"
+  },
+  {
+    "day": 144,
+    "title": "Coding and LLD mock",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "LRU Cache",
+    "questionHash": "e3a87e13830b5f93f603249f88fd78b1ad47c1a4ff9f9b4e88c9c692a199d108"
+  },
+  {
+    "day": 145,
+    "title": "Full-loop interview",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Intersection of Two Arrays",
+    "questionHash": "288e617264146a294ef9a6a52fbfd2414bd76f3c5f1ae1ae3f99d2cff5dc87da"
+  },
+  {
+    "day": 146,
+    "title": "Weekly hands-on build",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "LRU Cache",
+    "questionHash": "c11b8c21422dbea9af95232d1bb0fba770ba5bbaffdab08f96a5154b738123c2"
+  },
+  {
+    "day": 147,
+    "title": "Weekly review and reset",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Intersection of Two Arrays",
+    "questionHash": "d4ee155b7c6bc4fbfa245fc4e7f8c574b4bd5aa613fd7e2623b0637e67b13fec"
+  },
+  {
+    "day": 148,
+    "title": "Cold recall and gap audit",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Valid Anagram",
+    "questionHash": "5b2df3cab77deb2080851c41bab8cbc59f451d679b45c7d954a8d837ae8e3519"
+  },
+  {
+    "day": 149,
+    "title": "Rebuild without notes",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Implement Queue using Stacks",
+    "questionHash": "c718fa7c76f070a3bb18332bff119e1260ca82f14d92ddc1892fb89ec124960a"
+  },
+  {
+    "day": 150,
+    "title": "Failure-case and debugging drills",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Binary Search",
+    "questionHash": "4c14fa3264360d2d8c70ff6fb7201416fdc3ad69738d96301012a0faf4b473df"
+  },
+  {
+    "day": 151,
+    "title": "Mixed coding practice",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "House Robber",
+    "questionHash": "b7f4c50af90161c3308ab45923c5644f50b98e89b64572f2ff6203d7a24686e7"
+  },
+  {
+    "day": 152,
+    "title": "Mini-mock and corrections",
+    "budget": [
+      55,
+      45,
+      20
+    ],
+    "problem": "Intersection of Two Arrays",
+    "questionHash": "33c068c3a984091cdbb7f2c72f542d4466f4839ce1a980a4af04673aa4c64ecd"
+  },
+  {
+    "day": 153,
+    "title": "Cumulative lab and fixes",
+    "budget": [
+      140,
+      20,
+      20
+    ],
+    "problem": "Number of Islands",
+    "questionHash": "f28055b1324eb7d8360f17cd22d380e66d50f03fee5c31e9e2bc4a2487bac761"
+  },
+  {
+    "day": 154,
+    "title": "Retention checkpoint",
+    "budget": [
+      25,
+      20,
+      15
+    ],
+    "problem": "Longest Substring Without Repeating Characters",
+    "questionHash": "9147f2434e8da57f433d76c9e589b106505d971151593d548017bb172d93b789"
+  }
+]
